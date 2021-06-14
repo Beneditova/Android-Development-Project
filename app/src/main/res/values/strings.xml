@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="UserName">Име</string>
+    <string name="UserPhone">Телефонен номер</string>
+    <string name="UserDescription">Кратко описание</string>
+    <string name="ActiveUser">Активен потребител</string>
+</resources>
